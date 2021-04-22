@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 My name is Hugo Cheung
 
 <!--
-**HugoCheung1210/HugoCheung1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on the final exam.
 - 🌱 I’m currently learning how to live as how I want to live .
 - 🤔 I’m looking for help with the final exams.
